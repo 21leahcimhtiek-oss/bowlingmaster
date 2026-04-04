@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "products": [
+    {
+      "name": "Bowling Master - Starter",
+      "description": "Starter plan for Bowling Master",
+      "prices": [{"currency": "usd", "unit_amount": 900, "recurring": {"interval": "month"}}]
+    },
+    {
+      "name": "Bowling Master - Pro",
+      "description": "Pro plan for Bowling Master",
+      "prices": [{"currency": "usd", "unit_amount": 2900, "recurring": {"interval": "month"}}]
+    }
+  ]
+}

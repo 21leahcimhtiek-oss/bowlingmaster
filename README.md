@@ -55,3 +55,7 @@ For CI/CD release automation with Unity, keep credentials in repository secrets 
 ---
 
 Built with ❤️ by Aurora Rayes LLC
+
+## Aurora ecosystem note
+This project is part of the Aurora ecosystem and follows a no-key-first local setup philosophy.
+
